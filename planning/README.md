@@ -20,7 +20,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Thursday  | 1300-1800 2000-2400 |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      depends        |
 | Friday    | 08 - 1200 2000-2400 |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      depends        |
 
-### How many hours everyone has per day:
+### How many hours everyone has per day
 
 - Axil: _9h_;
 - Daniel: _9h_;
